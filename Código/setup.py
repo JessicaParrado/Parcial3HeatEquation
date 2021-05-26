@@ -1,6 +1,6 @@
 '''
 *Universidad Sergio Arboleda
-*Autores: Jessica Valentina Parrado Alfonso
+*Autores: Jessica Valentina Parrado Alfonso - Michael Steven Pinilla Mateus - Luis Alejandro Vejarano Gutierrez - Lady Geraldine Salazar Bayonao
 Fecha:Mayo 2021
 Computación Paralela y Distribuida
 '''
