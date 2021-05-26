@@ -15,7 +15,7 @@
 <br>
 <i><b>TEMA:</i> Tercer Parcial Comparativa Python y Cython en la Ecuación del Calor</b>
 <br>
-14/05/2021
+05/2021
 <br>
 </FONT>
 </div>
