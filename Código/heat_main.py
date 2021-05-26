@@ -1,3 +1,9 @@
+## Universidad Sergio Arboleda
+## Materia: Computacion Paralela
+## Profesor: John Corredor
+## Ingenieria de sistemas y telecomunicaciones
+## Autores: Jessica Valentina Parrado Alfonso - Michael Steven Pinilla Mateus
+##          Luis Alejandro Vejarano Gutierrez - Lady Geraldine Salazar Bayona
 from __future__ import print_function
 import time
 import argparse
